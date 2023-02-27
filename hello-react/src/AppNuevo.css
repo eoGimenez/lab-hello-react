@@ -1,0 +1,47 @@
+.container {
+    margin: 20px;
+}
+.home {
+    background-color: #282c34;
+    height: 500px;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+.logo {
+    height: 60px;
+    width: 60px;
+    margin: 10px 35px;
+}
+
+h1 {
+    font-size: 4em;
+    color: white;
+}
+.white {
+    color: white
+}
+.text {
+    margin: 50px;
+    width: 25%;
+}
+
+.button {
+    padding: 10px 20px;
+    font-weight: 600;
+    border-radius: 6px;
+}
+.images {
+    margin: 150px 180px 0 180px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.imageFoot {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 15%;
+}
